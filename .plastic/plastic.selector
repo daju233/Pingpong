@@ -1,0 +1,4 @@
+repository "pingpong@largeorange233@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
